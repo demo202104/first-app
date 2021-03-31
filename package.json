@@ -6,7 +6,7 @@
     "build": "next build",
     "start": "next start"
   },
-  "depencencies": {
+  "dependencies": {
     "react": "latest",
     "react-dom": "latest",
     "next": "latest"
