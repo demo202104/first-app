@@ -1,0 +1,14 @@
+{
+  "name": "first-app",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "depencencies": {
+    "react": "latest",
+    "react-dom": "latest",
+    "next": "latest"
+  }
+}
